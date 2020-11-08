@@ -5,6 +5,6 @@ title: 'Code of Conduct'
 
 # Code of Conduct
 
-Rules for being in this webring.
+Rules for being part of this webring.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed fuga quae labore, at adipisci mollitia consequatur possimus sint dolor corrupti unde aperiam iste cumque repudiandae enim, aliquid optio amet, quo quia. Doloribus eius atque quis. Odit, culpa saepe! Perferendis, ratione. Laboriosam ratione quod doloribus perferendis? Minus sit itaque totam eius.
+Your Wildcat!/WINServer site must NOT contain anything that depicts any illegal activities, including but not limited to, drugs, drug use, warez, etc. It also must NOT contain nudity available on your public pages. We are not the police, nor will we police your system, but we want to keep the public pages where you have the webring code, clean and family friendly. If after you have signed up, we find your site no longer meets these standards, your system will be deleted from the webring without recourse.
