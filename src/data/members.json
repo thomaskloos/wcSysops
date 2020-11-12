@@ -13,5 +13,10 @@
         "title": "EMS!BBS",
         "url": "https://www.ems-bbs.com/public/default.wct",
         "feed": null
+    },
+    {
+        "title": "WildCat Prison BBS",
+        "url": "http://www.rdfig.net/login?mode=HTML./",
+        "feed": null
     }
 ]
