@@ -18,5 +18,10 @@
         "title": "WildCat Prison BBS",
         "url": "http://www.rdfig.net/login?mode=HTML./",
         "feed": null
+    },
+    {
+        "title": "The Hobby Line! BBS",
+        "url": "http://hobbylinebbs.com/public/default.wct",
+        "feed": null
     }
 ]
