@@ -18,5 +18,10 @@
         "title": "The Hobby Line! BBS",
         "url": "http://hobbylinebbs.com/public/default.wct",
         "feed": null
+    },
+    {
+        "title": "The File Bank BBS!",
+        "url": "https://tfb-bbs.org/public/default.wct",
+        "feed": null
     }
 ]
