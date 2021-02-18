@@ -23,5 +23,10 @@
         "title": "The File Bank BBS!",
         "url": "https://tfb-bbs.org/public/default.wct",
         "feed": null
+    },
+    {
+        "title": "Bad Users BBS",
+        "url": "http://207.68.246.249/public/default.wct",
+        "feed": null
     }
 ]
