@@ -28,5 +28,10 @@
         "title": "Bad Users BBS",
         "url": "http://207.68.246.249/public/default.wct",
         "feed": null
+    },
+    {
+        "title": "Manic Modem BBS",
+        "url": "https://www.manic-modem.com/public/default.htm",
+        "feed": null
     }
 ]
