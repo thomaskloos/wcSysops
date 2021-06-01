@@ -33,5 +33,10 @@
         "title": "Manic Modem BBS",
         "url": "https://www.manic-modem.com/public/default.htm",
         "feed": null
+    },
+    {
+        "title": "Slipstream BBS",
+        "url": "http://www.slipstreambbs.net/public/default.wct",
+        "feed": null
     }
 ]
